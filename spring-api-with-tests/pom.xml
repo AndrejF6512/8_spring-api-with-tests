@@ -8,7 +8,7 @@
         <version>2.7.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github.vieirajunior-90</groupId>
+    <groupId>com.foltan.tests</groupId>
     <artifactId>api-with-tests</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>api-with-tests</name>
